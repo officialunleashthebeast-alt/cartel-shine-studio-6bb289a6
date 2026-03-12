@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/cartel-shine-studio/",
+  base: "/cartel-shine-studio-6bb289a6/",
   server: {
     host: "::",
     port: 8080,
